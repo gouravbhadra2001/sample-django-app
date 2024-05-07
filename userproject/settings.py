@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-6ln5$jh$nb3p#vs0o=x$kpfldc!7%)=utc5tlt0$)9(f+=ngt5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", "https://alzheimer-s-disease-client-gouravbhadra2001s-projects.vercel.app", "https://prodigy-wd-04-lqu1.vercel.app", "https://sample-django-auth.onrender.com"]
+ALLOWED_HOSTS = ["localhost", "https://alzheimer-s-disease-client-gouravbhadra2001s-projects.vercel.app", "https://prodigy-wd-04-lqu1.vercel.app", "sample-django-auth.onrender.com"]
 
 
 # Application definition
